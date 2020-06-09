@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 # Script to communicate with an SMTP service / server
-# Add username from text file support
 
 
 import socket
